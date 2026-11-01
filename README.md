@@ -1,2 +1,0 @@
-# tva-agility
-Appli TVA
